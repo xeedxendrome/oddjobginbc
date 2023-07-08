@@ -1,6 +1,7 @@
 const allowedOrigins = [
+    'https://oddjobgin-c6sz.onrender.com'
     
-    'https://OddJobGin.onrender.com'
+  
 
     
 ]
